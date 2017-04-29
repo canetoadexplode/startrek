@@ -1,0 +1,17 @@
+# To Do
+
+## Easy
+* Menu text
+  * fast scroll with end of line pause
+  * when you choose a menu option, your choice prints (ex. You look to the left, you see __)
+
+## Not Easy
+* Create a transporter room, can move you to any room
+  * Maybe only rooms you've been to so far? 
+  * Maybe it malfunctions and sends you random places sometimes/all the time
+* Borg fighting and consequences
+  * If you leave a room with a borg in it without killing the borg, you die
+  * Amount of borg increase per turns?
+
+## Over Ambitious 
+* Create different locations for the key. Randomize per game
