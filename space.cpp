@@ -97,8 +97,8 @@ string Space::menuChoice(int r)
   if (r == 2) return "You look to the right";
   if (r == 3) return "You look ahead";
   if (r == 4) return "You look back";
-  if (r == 5) return "You move to your right";
-  if (r == 6) return "You move to your left";
+  if (r == 5) return "You move to your left";
+  if (r == 6) return "You move to your right";
   if (r == 7) return "You move forward";
   if (r == 8) return "You move backwards";
   return "";
